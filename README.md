@@ -15,6 +15,7 @@ Vous pouvez me contacter par mail sur [mail](mailto:samyfichel@gmail.com)
 
 <details>
 <summary><strong>langages de programmation étudiés :</strong></summary>
+  <br>
   - Vue.JS<br>
   - CSS/Sass<br>
   - Bootstrap<br>
